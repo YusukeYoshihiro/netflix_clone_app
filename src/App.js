@@ -25,6 +25,7 @@ function App() {
       <Row title="Horror Movies" fetchUrl={requests.fetchHorrorMovies} />
       <Row title="Documentaries" fetchUrl={requests.fetchDocumentaries} />
 
+      {/** Footer */}
     </div>
   );
 }
