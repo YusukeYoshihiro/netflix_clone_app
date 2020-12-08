@@ -26,7 +26,9 @@ function Nav() {
       src={Logo}
       alt="Netflim Logo"
       />
-
+      
+      
+      
       <img 
       className="nav__avatar"
       src={img} 
